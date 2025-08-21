@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Personal\\eps-task\\EPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|c:\\projects\\personal\\eps-task\\eps\\eps.server\\services\\codeactivationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|solutionrelative:eps.server\\services\\codeactivationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|c:\\projects\\personal\\eps-task\\eps\\eps.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|solutionrelative:eps.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|c:\\projects\\personal\\eps-task\\eps\\eps.server\\models\\codeactivationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|solutionrelative:eps.server\\models\\codeactivationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95B9E2B-C866-4481-AAEB-415AA20B9F20}|EPS.Data\\EPS.Data.csproj|c:\\projects\\personal\\eps-task\\eps\\eps.data\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95B9E2B-C866-4481-AAEB-415AA20B9F20}|EPS.Data\\EPS.Data.csproj|solutionrelative:eps.data\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95B9E2B-C866-4481-AAEB-415AA20B9F20}|EPS.Data\\EPS.Data.csproj|c:\\projects\\personal\\eps-task\\eps\\eps.data\\datamodel\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95B9E2B-C866-4481-AAEB-415AA20B9F20}|EPS.Data\\EPS.Data.csproj|solutionrelative:eps.data\\datamodel\\discountcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|c:\\projects\\personal\\eps-task\\eps\\eps.server\\services\\websocketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|solutionrelative:eps.server\\services\\websocketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|c:\\projects\\personal\\eps-task\\eps\\eps.server\\interfaces\\iwebsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F73593-0B00-4C24-B0D2-1283F0EF75AA}|EPS.Server\\EPS.Server.csproj|solutionrelative:eps.server\\interfaces\\iwebsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Data\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "EPS.Data\\Services\\DataService.cs",
+              "ToolTip": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Data\\Services\\DataService.cs",
+              "RelativeToolTip": "EPS.Data\\Services\\DataService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:09:11.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountCode.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Data\\DataModel\\DiscountCode.cs",
+              "RelativeDocumentMoniker": "EPS.Data\\DataModel\\DiscountCode.cs",
+              "ToolTip": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Data\\DataModel\\DiscountCode.cs",
+              "RelativeToolTip": "EPS.Data\\DataModel\\DiscountCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:07:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Program.cs",
+              "RelativeDocumentMoniker": "EPS.Server\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Program.cs",
+              "RelativeToolTip": "EPS.Server\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:38:03.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodeActivationRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Models\\CodeActivationRequest.cs",
+              "RelativeDocumentMoniker": "EPS.Server\\Models\\CodeActivationRequest.cs",
+              "ToolTip": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Models\\CodeActivationRequest.cs",
+              "RelativeToolTip": "EPS.Server\\Models\\CodeActivationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:21:17.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeActivationService.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Services\\CodeActivationService.cs",
+              "RelativeDocumentMoniker": "EPS.Server\\Services\\CodeActivationService.cs",
+              "ToolTip": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Services\\CodeActivationService.cs",
+              "RelativeToolTip": "EPS.Server\\Services\\CodeActivationService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T03:52:50.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebSocketService.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Services\\WebSocketService.cs",
+              "RelativeDocumentMoniker": "EPS.Server\\Services\\WebSocketService.cs",
+              "ToolTip": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Services\\WebSocketService.cs",
+              "RelativeToolTip": "EPS.Server\\Services\\WebSocketService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:12:23.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWebSocket.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Interfaces\\IWebSocket.cs",
+              "RelativeDocumentMoniker": "EPS.Server\\Interfaces\\IWebSocket.cs",
+              "ToolTip": "C:\\Projects\\Personal\\eps-task\\EPS\\EPS.Server\\Interfaces\\IWebSocket.cs",
+              "RelativeToolTip": "EPS.Server\\Interfaces\\IWebSocket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:50:37.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
